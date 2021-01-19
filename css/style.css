@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+
+h1, h2{
+  font-family: 'Rajdhani', sans-serif;
+}
+.oval-btn{
+	border-radius: 25px;
+}
+
+p.ex1 {
+  padding-top: 10%;
+}
+
+
+
+.img {
+	height: 100%;
+	width: 100%;
+}
+ 
+.para {
+	text-align: center;
+}
+.h1{
+	word-spacing: 20px;
+}
+
